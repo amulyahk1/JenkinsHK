@@ -9,4 +9,4 @@ else
     echo "$number is an odd number."
 fi
 
-echo "number is an odd number"
+echo "number is an odd number n"
